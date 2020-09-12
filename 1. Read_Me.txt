@@ -1,0 +1,1 @@
+This folder is a repository of Hello World code in different languages to check if they are configured on target computers.
